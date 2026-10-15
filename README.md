@@ -2,7 +2,7 @@
 
 Web developer from Orava, Slovakia. Since 2024 I've been building websites,
 e-shops and web apps for clients — from the first meeting to deployment and
-maintenance. Now looking for a junior position in **TypeScript / React**.
+maintenance.
 
 **Featured project — [SML Moto](https://github.com/marten55/SML-MOTO)**
 A shop selling motorcycle routes as GPX files. Next.js 16, TypeScript,
