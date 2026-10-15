@@ -16,4 +16,4 @@ Client preview: [sml.admtechnics.sk](https://sml.admtechnics.sk)
 
 **Stack:** TypeScript · React · Next.js · PostgreSQL / Supabase · PHP · WordPress · Python
 
-📫 marten.mutka@gmail.com · [LinkedIn](https://www.linkedin.com/in/martin-mu%C5%A5ka-26067b368)
+📫 m.mutka@admtechnics.sk · [LinkedIn](https://www.linkedin.com/in/martin-mu%C5%A5ka-26067b368)
